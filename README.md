@@ -1,5 +1,5 @@
 # Miguel Vega
-### I'm a software developer based in Colombia specialized in web and mobile development. Self-taught developer building personal digital experiences.
+### I'm a software developer based in Colombia working on web and mobile development. Self-taught developer building personal digital experiences.
 
 ⤷ +3 years of experience in software development, focused on web with technologies like Javascript, React.js, Next.js, TailwindCSS; and mobile with Flutter and Dart.
 
