@@ -10,4 +10,4 @@ User-first approach, I continuously seek to improve and innovate, ensuring every
 
 
  ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,astro,flutter,dart&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,astro,flutter,dart&theme=dark)](https://atleugim.dev/)
