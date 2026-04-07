@@ -1,10 +1,8 @@
 # Miguel Vega
 
-Over four years crafting standout digital experiences. I focus on blending design and functionality to
-create user-friendly solutions that leave a lasting impression.
+Crafting standout digital experiences. I focus on blending design and functionality to create user-friendly solutions that leave a lasting impression.
 
-User-first approach, I continuously seek to improve and innovate, ensuring every project delivers
-both performance and impact
+User-first approach, I continuously seek to improve and innovate, ensuring every project delivers both performance and impact.
 
 ⚐ Based in Colombia
 
