@@ -1,12 +1,9 @@
 # Miguel Vega
 
-Crafting standout digital experiences. I focus on blending design and functionality to create user-friendly solutions that leave a lasting impression.
+Software engineer. I build products end to end: interfaces people actually use, and the services and integrations behind them.
 
-User-first approach, I continuously seek to improve and innovate, ensuring every project delivers both performance and impact.
+Lately interested in AI-assisted development, developer tooling, DX.
+
+[atleugim.dev](https://www.atleugim.dev) · [LinkedIn](https://linkedin.com/in/atleugim)
 
 ⚐ Based in Colombia
-
-
-
- ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,astro,flutter,dart,nestjs&theme=dark)](https://atleugim.dev/)
